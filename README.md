@@ -12,6 +12,10 @@ This repository is inteded to fight with forgeting process. I will type here and
 
 ### OS
 
+| Name | URL |
+| --- | --- |
+| Windows | [https://www.microsoft.com/pl-pl/windows?r=1](https://www.microsoft.com/pl-pl/windows?r=1)|
+
 ### Network
 
 ### AI
